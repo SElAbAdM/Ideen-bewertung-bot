@@ -1,0 +1,23 @@
+<!DOCTYPE  html>
+<html  lang="de">
+<head>
+  <meta  charset="UTF-8">
+  <title>Business-Ideen-Bewertung</title>
+  <link  rel="stylesheet"
+href="style.css">
+</head>
+<body>
+  <div  class="container">
+    <h1>Business-Ideen-Bewertung</h1>
+    <textarea  id="idee"
+placeholder="Beschreibe  deine
+Idee..."></textarea>
+    <button
+onclick="bewerteIdee()">Absender</
+button>
+    <div  id="antwort"></div>
+  </div>
+  <script  src="script.js"></div>
+</body>
+</html>
+
